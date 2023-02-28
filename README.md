@@ -28,8 +28,8 @@ Simple as it is, it helps re-evaluated my flexbox knowledge and the use of `box-
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/ClaudiusAyadi/01.-QR-Code-Component)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Source code on GitHub](https://github.com/ClaudiusAyadi/01.-QR-Code-Component)
+- Live Site URL: [See it in action on Netlify](https://qr-code-dovely.netlify.app/)
 
 ## My process
 
