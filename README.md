@@ -20,7 +20,7 @@ Frontend Mentor challenges help you improve your coding skills by building proje
 
 The QR Code Component challenge is a beginner-friendly project and the first challenge recommended to me when I joined Frontend Mentor.
 
-Simple as it is, it helps re-evaluated my flexbox knowledge and the use of `box-shadow` to create elevated-styled cards. It was a fast one filled with much fun too.
+Simple as it is, it helps re-evaluated my flexbox knowledge and the use of `box shadow` to create elevated-styled cards. It was a fast one filled with much fun too.
 
 ### Screenshot
 
@@ -37,7 +37,7 @@ Simple as it is, it helps re-evaluated my flexbox knowledge and the use of `box-
 2. I went to create a directory for the new project inside the master repo.
 3. Then laid out the component in HTML with appropriate classes based on the BEM.
 4. style.css was next, where I designed the component and its parts using modern CSS properties.
-5. I deleted the old README.md and updated the README.md template file to write down the process and other required information.
+5. I deleted the old `README.md` and updated the README.md template file to write down the process and other required information.
 6. Added untracked files as I work, commit and push everything as needed.
 7. Deployed to Netlify, updated the `README.md` with the project live URL, and submitted to Frontend Mentor.
 
@@ -50,11 +50,11 @@ Simple as it is, it helps re-evaluated my flexbox knowledge and the use of `box-
 
 ### What I learned
 
-I learned to use 'box-shadow1 property in this project. It was the main gamechanger for the card to pop out as it is.
+I learned to use `box-shadow` property in this project. It was the main game changer for the card to pop out as it is.
 
 ### Continued development
 
-In the future, I'd love to use `grid` instead of `flexbox` for the page layout, and only use flexbox for the component items.
+In the future, I'd love to use a `grid` instead of `flexbox` for the page layout and only use flexbox for the component items.
 
 Also, down the road, I believe similar cards can be a reusable component saved in my SASS starter template to be used whenever needed.
 
@@ -66,4 +66,4 @@ Also, down the road, I believe similar cards can be a reusable component saved i
 
 ## Acknowledgments
 
-Many thanks to the Frontend Mentor team for this beginner challenge. A big shoutout to `xaviguasch` from #100devs Discord group who made me start this challenge series. Thanks, man!
+Many thanks to the Frontend Mentor team for this beginner challenge. A big shoutout to `xaviguasch` from the #100devs Discord group who made me start this challenge series. Thanks, man!
