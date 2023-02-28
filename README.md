@@ -20,11 +20,11 @@ Frontend Mentor challenges help you improve your coding skills by building proje
 
 The QR Code Component challenge is a beginner-friendly project and the first challenge recommended to me when I joined Frontend Mentor.
 
-Simple as it is, it helps re-evaluated my flexbox knowledge and the use of `box shadow` to create elevated-styled cards. It was a fast one filled with much fun too.
+Simple as it is, it helps me re-evaluate my flexbox knowledge and the use of `box shadow` to create elevated-styled cards. It was a fast one filled with much fun too.
 
 ### Screenshot
 
-![](./screenshot.png)
+![QR Code Component](./screenshot.png)
 
 ### Links
 
@@ -50,11 +50,11 @@ Simple as it is, it helps re-evaluated my flexbox knowledge and the use of `box 
 
 ### What I learned
 
-I learned to use `box-shadow` property in this project. It was the main game changer for the card to pop out as it is.
+I learned to use the `box-shadow` property in this project. It was the main game changer for the card to pop out as it is.
 
 ### Continued development
 
-In the future, I'd love to use a `grid` instead of `flexbox` for the page layout and only use flexbox for the component items.
+In the future, I'd love to use a `grid` instead of `flex` for the page layout and only use flexbox for the component items.
 
 Also, down the road, I believe similar cards can be a reusable component saved in my SASS starter template to be used whenever needed.
 
