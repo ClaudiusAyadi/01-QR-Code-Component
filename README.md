@@ -24,7 +24,7 @@ Simple as it is, it helps me re-evaluate my flexbox knowledge and the use of `bo
 
 ### Screenshot
 
-![QR code component](screenshot.png)
+![QR code component](screenshot-v2.png)
 
 ### Links
 
