@@ -45,7 +45,7 @@ Simple as it is, it helps me re-evaluate my flexbox knowledge and the use of `bo
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flexbox & Grid
 - Mobile-first workflow
 
 ### What I learned
@@ -56,7 +56,9 @@ I learned to use the `box-shadow` property in this project. It was the main game
 
 In the future, I'd love to use a `grid` instead of `flex` for the page layout and only use flexbox for the component items.
 
-Also, down the road, I believe similar cards can be a reusable component saved in my SASS starter template to be used whenever needed.
+`` EDIT: I finally used `grid` for the page layout and `place-items: center` property. However, there's a new issue I'd like to solve. I want the footer to sit at the bottom of the screen. Is there a way I can place the item at the bottom of the grid? ``
+
+I hope to master the grid and flexbox properties with some CSS animations. Down the road, I'm looking at having enough card components that I can use for different occassions.
 
 ## Author
 
